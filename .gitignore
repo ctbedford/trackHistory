@@ -1,0 +1,27 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore environment directories
+env/
+venv/
+ENV/
+.venv/
+
+# Ignore database files
+*.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore any specific files related to this project
+browsing_history.db
+browsing-history-tracker.log
+browsing_history_categories.png
+
